@@ -1,0 +1,3 @@
+name: lagoinhadart 
+dependencies:
+  http: 0.12.0+4
